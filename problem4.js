@@ -1,0 +1,21 @@
+var x = 0;
+
+/////////////////////////////////////
+// a = x++;
+// console.log(a) // out put will be zero
+
+
+////////////////////////////////////
+// a =++x;
+// console.log(a) // out put will be one
+
+/////////////////////////////////////
+// x = x + 1;
+// console.log(x); // out put will be one 
+
+
+/////////////////////////////////////
+// x += 1;
+// console.log(x);//output will be one 
+// x += 1
+// console.log(x);//output will be two
